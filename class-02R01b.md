@@ -39,5 +39,5 @@
 * CSS rules usually appear in a separate document, although they may appear within an HTML page.
 
 
-![not1](img/r01b.png)
-![not2](img/snp.png)
+![not1](https://ameenbassamsaleh.github.io/RedingN201/img/snp.PNG)
+![not2](https://ameenbassamsaleh.github.io/RedingN201/img/r01b.PNG)
