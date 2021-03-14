@@ -2,21 +2,21 @@
 
 
 ### HTML
-- Bold <b>
-- Italic <i>
-- Superscript <sup> like th
-- Subscript <sub> like co2
-- Horizontal Rules <hr> line 
-- Line Breaks <br> type  at a new line 
-- Strong <strong> like bold
-- Emphasis <em> ltalic
-- Quotations <blockquote>,<q>
+- Bold "<b>"
+- Italic "<i>"
+- Superscript "<sup>" like th
+- Subscript "<sub>" like co2
+- Horizontal Rules "<hr>" line 
+- Line Breaks "<br>" type  at a new line 
+- Strong "<strong>" like bold
+- Emphasis "<em>" ltalic
+- Quotations "<blockquote>,<q>"
 - Abbreviations <abbr>
 - Acronyms , acronym title="National Aeronautics and Space Administration"
-- Citations <cite> 
-- Definitions <dfn>
-- Changes to Content <ins><del>
-- Lin in the type <S> 
+- Citations "<cite>" 
+- Definitions "<dfn>"
+- Changes to Content '<ins><del>'
+- Lin in the type '<S>' 
 
 ### Summary :
 
