@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# All the reading files 201 code
 
-You can use the [editor on GitHub](https://github.com/AmeenBassamSaleh/RedingN201/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome everyone,
+#### I am **Ameen Saleh**, I am 24 years old, I am a marketer and I have 5 years experience as an agricultural store manager and abut programming I would like to be data science specialist.
+  
+### Here we can find all the reading notes at 201 code.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AmeenBassamSaleh/RedingN201/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+   |N     |content                                                                                    |Description              |
+   |:----:|:-----------------------------------------------------------------------------------------:|:-------------------------------:|
+   |1     |[RN01a]()                     |                          |
+   |2     |[RN01b](https://ameenbassamsaleh.github.io/RedingN201/class-02R01b)            |     |
+   |3     |[]()            |     |
+   |4     |[]()            |     |
+   |5     |[]()            |     |
+   |6     |[]()            |     |
+   |7     |[]()            |     |
+  
+  
+![reading img](https://scontent.famm3-2.fna.fbcdn.net/v/t31.0-8/27173347_577362115934608_8884370881857924896_o.jpg?_nc_cat=106&amp;ccb=3&amp;_nc_sid=19026a&amp;_nc_eui2=AeEd2RYgTb1GXFI-z8gcK5EH6g_HZrPjoKTqD8dms-OgpP_tMzlrFD8AcGjBWz2xHrGus-Mgcr_lixewTs5G_dfd&amp;_nc_ohc=AikVHDD2_pcAX_MV10r&amp;_nc_oc=AQlmwyqjnk_9NnoF64JECbdD_txFuat4dB9QmRczQWAv_LkkTwqq4Ce7Af6daS8DjpM&amp;_nc_ht=scontent.famm3-2.fna&amp;oh=221023e521e44c3f049891d2c4212bd0&amp;oe=6067B35E)
